@@ -3,3 +3,22 @@
     color: blue;
     text-align: center;
 }
+
+/* paragrafo main  */
+.text{
+    font-size: 15px;
+    text-align: center;
+}
+
+/* stile div foto */
+.fotodelcane{
+    width: 25vw;
+    height: 25vw;
+    border: 2px solid black;
+    margin-left: 50%;
+    transform: translate(-50%);
+    background-image: url(/Users/marcodedemo/Desktop/Boolean/Esercizio1/htmlcss-hello/Foto/fotocane.jpeg);
+    background-size:cover;
+    background-position: center;
+
+}
